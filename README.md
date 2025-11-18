@@ -26,7 +26,7 @@ Boggle is a word game where players try to find as many words as possible from a
 2. Navigate to the project directory:
 
     ```bash
-    cd Boggle
+    cd ./src/Boggle
     ```
 
 3. Build the project:
